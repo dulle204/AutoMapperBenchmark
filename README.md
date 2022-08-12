@@ -1,1 +1,1 @@
-# AutoMapperBenchmark
+# AutoMapper Benchmark
